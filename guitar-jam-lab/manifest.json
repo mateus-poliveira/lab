@@ -1,0 +1,18 @@
+{
+  "name": "GuitarLab // Studio Analysis",
+  "short_name": "GuitarLab",
+  "description": "Studio guitar scale, triad, and rhythm jam laboratory.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1c0f24",
+  "theme_color": "#1c0f24",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
